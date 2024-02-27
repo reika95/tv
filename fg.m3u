@@ -21,3 +21,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:0,Music ON TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ES: ANTENA 3 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/A3" group-title="ES   MOVISTAR+",ES: ANTENA 3 SD
+http://982557631330321107.ofd0208.xyz:80/play/BSA4GCCSFH/Ee3GmmvXm4uD/321107.ts
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="ES: CUATRO SD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO SD
+http://982557631330321198.ofd0208.xyz:80/play/BSA4GCCSFH/Ee3GmmvXm4uD/321198.ts
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="ES: LA SEXTA SD" tvg-logo="https://miguia.tv/channels/big_100.png" group-title="ES   MOVISTAR+",ES: LA SEXTA SD
+http://982557631330321290.ofd0208.xyz:80/play/BSA4GCCSFH/Ee3GmmvXm4uD/321290.ts
