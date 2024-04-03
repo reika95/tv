@@ -15,9 +15,9 @@ https://huhu.to/play/770950177/index.m3u8
 https://huhu.to/play/2018708974/index.m3u8
 #EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/space_shower_tv.png",Space Shower TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png" group-title="Primehome",Music Japan TV
+#EXTINF:0,Music Japan TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="MTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png" group-title="Primehome",MTV Japan
+#EXTINF:0,MTV JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:0,Music ON TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -30,5 +30,5 @@ http://982557631330321290.ofd0208.xyz:80/play/BSA4GCCSFH/Ee3GmmvXm4uD/321290.ts
 #EXTINF:0,jone
 http://982557631330752768.ofd0208.xyz:80/play/BSA4GCCSFH/Ee3GmmvXm4uD/752768.ts
 #EXTINF:0,PLANETE+ AVENTURE HD
-http://982557631330746950.ofd0208.xyz:80/play/BSA4GCCSFH/Ee3GmmvXm4uD/746950.ts
+https://huhu.to/play/2286719017/index.m3u8
 
