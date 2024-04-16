@@ -61,4 +61,11 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/68
 https://huhu.to/play/3702635209/index.m3u8
 #EXTINF:0,DAZN2
 https://huhu.to/play/2601631769/index.m3u8
-
+#EXTINF:0,TBS
+http://118.71.66.141:8080/TBS/tracks-v1a1/mono.m3u8
+#EXTINF:0,NTV
+http://118.71.66.141:8080/nippon/tracks-v1a1/mono.m3u8
+#EXTINF:0,NHKG
+http://118.71.66.141:8080/NHKG/tracks-v1a1/mono.m3u8
+#EXTINF:0,FUJITV
+http://118.71.66.141:8080/FUJI/tracks-v1a1/mono.m3u8
