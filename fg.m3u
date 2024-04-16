@@ -69,3 +69,13 @@ http://118.71.66.141:8080/nippon/tracks-v1a1/mono.m3u8
 http://118.71.66.141:8080/NHKG/tracks-v1a1/mono.m3u8
 #EXTINF:0,FUJITV
 http://118.71.66.141:8080/FUJI/tracks-v1a1/mono.m3u8
+#EXTINF:0,nhkG guo
+http://142.171.3.10:5002/gd01.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,nhkE guo
+http://142.171.3.10:5002/gd02.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,FUJI guo
+http://142.171.3.10:5002/gd05.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,ASAHITV guo
+http://142.171.3.10:5002/gd06.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,MBS guo
+http://142.171.16.226:5002/gx01.m3u8?token=guoziyun&channel=zhongying
