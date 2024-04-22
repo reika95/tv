@@ -39,6 +39,8 @@ https://huhu.to/play/1920315735/index.m3u8
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_SD.smil/index.m3u8
 #EXTINF:0,La Sexta 
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_SD.smil/index.m3u8
+#EXTINF:0,La 1 
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_premium.smil/index.m3u8
 #EXTINF:0,La 2 
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:2_SD.smil/index.m3u8
 #EXTINF:0,TDP 
