@@ -83,3 +83,7 @@ http://142.171.3.10:5002/gd05.m3u8?token=guoziyun&channel=zhongying
 http://142.171.3.10:5002/gd06.m3u8?token=guoziyun&channel=zhongying
 #EXTINF:0,MBS guo
 http://142.171.16.226:5002/gx01.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,MUSIC JAPAN EPW
+https://epg.pw/stream/5e0bbe1749fbb6d41414e7c64f7594f696ddd539a22a34e3e38f1861f64c3040.m3u8
+#EXTINF:0,Music On!TV EPW
+https://epg.pw/stream/360a8e1fa837370658b3d268b04effac9d699e9eca3003ce42d32e58d40fd470.m3u8
