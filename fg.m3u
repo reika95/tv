@@ -65,16 +65,19 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://huhu.to/play/3702635209/index.m3u8
 #EXTINF:0,DAZN2
 https://huhu.to/play/2601631769/index.m3u8
-#EXTINF:0,TBS
+#EXTINF:0,TBS itv
 http://118.71.66.141:8080/tbs/tracks-v1a1/mono.m3u8
-#EXTINF:0,NTV
+#EXTINF:0,NTV itv 
 http://118.71.66.141:8080/nihon/tracks-v1a1/mono.m3u8
-#EXTINF:0,NHKG
+#EXTINF:0,NHKG itv 
 http://118.71.66.141:8080/n.hkg/tracks-v1a1/mono.m3u8
-#EXTINF:0,FUJITV
+#EXTINF:0,FUJITV itv 
 http://118.71.66.141:8080/fuji/tracks-v1a1/mono.m3u8
-#EXTINF:0,asahitv
+#EXTINF:0,asahitv itv
 http://118.71.66.141:8080/asahi/tracks-v1a1/mono.m3u8
+#EXTINF:0,tokyotv itv
+http://118.71.66.141:8080/tokyo/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,nhkG guo
 http://142.171.3.10:5002/gd01.m3u8?token=guoziyun&channel=zhongying
 #EXTINF:0,nhkE guo
