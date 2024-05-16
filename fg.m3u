@@ -89,6 +89,14 @@ http://142.171.3.10:5002/gd05.m3u8?token=guoziyun&channel=zhongying
 http://142.171.3.10:5002/gd06.m3u8?token=guoziyun&channel=zhongying
 #EXTINF:0,MBS guo
 http://142.171.16.226:5002/gx01.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,MTV JP guo
+http://142.171.31.242:5002/cs18.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,MUSIC JAPAN guo
+http://142.171.31.242:5002/cs06.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,SPACESHOWER guo
+http://103.197.59.109:5002/bs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying
+#EXTINF:0,FUJI TWO guo
+http://vdo.itvlive.net:8080/Fuji-Two/tracks-v1a1/mono.m3u8?
 #EXTINF:0,MUSIC JAPAN EPW
 https://epg.pw/stream/5e0bbe1749fbb6d41414e7c64f7594f696ddd539a22a34e3e38f1861f64c3040.m3u8
 #EXTINF:0,Music On!TV EPW
