@@ -111,3 +111,7 @@ https://everylive.space/live/mnet/livestream.m3u8
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:0,sbs
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:0,SBS
+https://epg.pw/stream/2fa0ac6ab64e8001eaf3caaed5b51f25d3b3fba21ef8374c58977858c6cb7449.m3u8
+#EXTINF:0,SBS TEST
+https://vnpt.nekocdn.xyz/hls/SBS/index.m3u8
