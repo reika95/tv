@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/space_shower_tv.png",Space Shower TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:0,Music Japan TV
