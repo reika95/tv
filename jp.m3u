@@ -1,0 +1,42 @@
+#EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/space_shower_tv.png",Space Shower TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:0,Music Japan TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:0,MTV JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:0,Music ON TV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0,TBS itv
+http://cdn.itvlive.net:8080/tbs/tracks-v1a1/mono.m3u8
+#EXTINF:0,NTV itv 
+http://cdn.itvlive.net:8080/NIHON/tracks-v1a1/mono.m3u8
+#EXTINF:0,NHKG itv 
+http://cdn.itvlive.net:8080/NHKG/tracks-v1a1/mono.m3u8
+#EXTINF:0,FUJITV itv 
+http://cdn.itvlive.net:8080/FUJI/tracks-v1a1/mono.m3u8
+#EXTINF:0,asahitv itv
+http://cdn.itvlive.net:8080/ASAHI/tracks-v1a1/mono.m3u8
+#EXTINF:0,tokyotv itv
+http://cdn.itvlive.net:8080/TOKYO/tracks-v1a1/mono.m3u8
+#EXTINF:0,nhkG guo
+http://142.171.3.10:5002/gd01.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,nhkE guo
+http://142.171.3.10:5002/gd02.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,FUJI guo
+http://142.171.3.10:5002/gd05.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,ASAHITV guo
+http://142.171.3.10:5002/gd06.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,MBS guo
+http://142.171.16.226:5002/gx01.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,MTV JP guo
+http://142.171.31.242:5002/cs18.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,MUSIC JAPAN guo
+http://142.171.31.242:5002/cs06.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,SPACESHOWER guo
+http://103.197.59.109:5002/bs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying
+#EXTINF:0,FUJI TWO guo
+http://vdo.itvlive.net:8080/Fuji-Two/tracks-v1a1/mono.m3u8?
+#EXTINF:0,MUSIC JAPAN EPW
+https://epg.pw/stream/5e0bbe1749fbb6d41414e7c64f7594f696ddd539a22a34e3e38f1861f64c3040.m3u8
+#EXTINF:0,Music On!TV EPW
+https://epg.pw/stream/360a8e1fa837370658b3d268b04effac9d699e9eca3003ce42d32e58d40fd470.m3u8
