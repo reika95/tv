@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:0,lasexta
-https://huhu.to/play/2785500738/index.m3u8
-#EXTINF:0,antena3
-https://huhu.to/play/1723169343/index.m3u8
-#EXTINF:0,cuatro
-https://huhu.to/play/1252860165/index.m3u8
-#EXTINF:0,telecinco
-https://huhu.to/play/487257571/index.m3u8
-#EXTINF:0,JONE
-https://huhu.to/play/440452447/index.m3u8
-#EXTINF:0,GAMEONE
-https://huhu.to/play/2307324713/index.m3u8
-#EXTINF:0,TFX
-https://huhu.to/play/770950177/index.m3u8
-#EXTINF:0,TF1
-https://huhu.to/play/2018708974/index.m3u8
 #EXTINF:0,Antena 3 SD
 http://488185459852321197.ofd0718.xyz:80/play/CLPYJCU953/nvGRbWXS9P/321107.m3u8
 #EXTINF:0,Cuatro SD
@@ -23,12 +7,6 @@ http://488185459852321197.ofd0718.xyz:80/play/CLPYJCU953/nvGRbWXS9P/321198.m3u8
 http://488185459852321197.ofd0718.xyz:80/play/CLPYJCU953/nvGRbWXS9P/321290.m3u8
 #EXTINF:0,telecinco SD
 http://488185459852321197.ofd0718.xyz:80/play/CLPYJCU953/nvGRbWXS9P/321431.m3u8
-#EXTINF:0,PLANETE+ AVENTURE HD
-https://huhu.to/play/2651914005/index.m3u8
-#EXTINF:0,MTV 90
-https://huhu.to/play/13531207/index.m3u8
-#EXTINF:0,MTV 00
-https://huhu.to/play/3814020625/index.m3u8
 #EXTINF:0,Cuatro
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_SD.smil/index.m3u8
 #EXTINF:0,La Sexta 
@@ -55,9 +33,6 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_SD.smil/index
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_SD.smil/index.m3u8
 #EXTINF:0,SOL MUSICA
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:0,DAZN1
-https://huhu.to/play/3702635209/index.m3u8
-#EXTINF:0,DAZN2
-https://huhu.to/play/2601631769/index.m3u8
+
 
 
