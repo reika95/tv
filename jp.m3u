@@ -13,8 +13,12 @@ http://142.171.3.10:5002/gd01.m3u8?token=guoziyun&channel=zhongying
 http://142.171.3.10:5002/gd02.m3u8?token=guoziyun&channel=zhongying
 #EXTINF:0,FUJI guo
 http://142.171.3.10:5002/gd05.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,ntv guo
+http://103.255.250.194:5002/gd05.m3u8?token=guoziyun&gid=gd05&channel=zhongying
 #EXTINF:0,ASAHITV guo
 http://142.171.3.10:5002/gd06.m3u8?token=guoziyun&channel=zhongying
+#EXTINF:0,tbs guo
+http://142.171.31.242:5002/gd04.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 #EXTINF:0,MBS guo
 http://142.171.16.226:5002/gx01.m3u8?token=guoziyun&channel=zhongying
 #EXTINF:0,MTV JP guo
@@ -25,6 +29,10 @@ http://142.171.31.242:5002/cs06.m3u8?token=guoziyun&channel=zhongying
 http://103.197.59.109:5002/bs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying
 #EXTINF:0,FUJI TWO guo
 http://vdo.itvlive.net:8080/Fuji-Two/tracks-v1a1/mono.m3u8?
+#EXTINF:0,FUJI NEXT guo
+http://103.255.250.203:5002/cs26.m3u8?token=guoziyun&gid=cs26&channel=zhongying
+#EXTINF:0,Music On!TV
+http://216.74.123.112/live/montv.m3u8
 #EXTINF:0,MUSIC JAPAN EPW
 https://epg.pw/stream/5e0bbe1749fbb6d41414e7c64f7594f696ddd539a22a34e3e38f1861f64c3040.m3u8
 #EXTINF:0,Music On!TV EPW
@@ -39,4 +47,3 @@ https://hls.watchtv.uk/jptv/bs04/index.m3u8?t=1718577377&token=c062de67753a09b16
 https://hls.watchtv.uk/jptv/bs05/index.m3u8?t=1718577448&token=a6e3a3c8f6581b65c56d59305b3130fe
 #EXTINF:0,fujitv
 https://hls.watchtv.uk/jptv/bs06/index.m3u8?t=1718577489&token=3e02da0695d8c22149c4aa259c58c973
-
