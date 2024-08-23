@@ -1,4 +1,5 @@
 #EXTM3U
+#OLD 
 #EXTINF:0,Antena 3 SD
 http://488185459852321197.ofd0718.xyz:80/play/CLPYJCU953/nvGRbWXS9P/321107.m3u8
 #EXTINF:0,Cuatro SD
@@ -31,8 +32,88 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_SD.smil/index
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_SD.smil/index.m3u8
 #EXTINF:0,DMAX
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_SD.smil/index.m3u8
+#NEW boxdigital
+#EXTINF:-1,La 1 SD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265553
+#EXTINF:-1,La 1 HD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265554
+#EXTINF:-1,LA 1 FHD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265555
+#EXTINF:-1,La 2 HD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265556
+#EXTINF:-1,ANTENA 3
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265557
+#EXTINF:-1,ANTENA 3 HD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265558
+#EXTINF:-1,ANTENA 3 FHD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265559
+#EXTINF:-1,CUATRO
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265560
+#EXTINF:-1,CUATRO HD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265561
+#EXTINF:-1,CUATRO FHD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265562
+#EXTINF:-1,TELECINCO
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265563
+#EXTINF:-1,TELECINCO HD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265564
+#EXTINF:-1,TELECINCO FHD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265565
+#EXTINF:-1,LA SEXTA
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265566
+#EXTINF:-1,La Sexta HD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265567
+#EXTINF:-1,LA SEXTA FHD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265568
+#EXTINF:-1,NOVA HD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265569
+#EXTINF:-1,NEOX HD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265570
+#EXTINF:-1,COSMO FHD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265572
+#EXTINF:-1,COSMO HD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265573
+#EXTINF:-1,ENERGY SD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265574
+#EXTINF:-1,ENERGY HD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265575
+#EXTINF:-1,DIVINITY SD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265576
+#EXTINF:-1,DIVINITY HD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265577
+#EXTINF:-1,DMAX
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265579
+#EXTINF:-1,FDF
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265580
+#EXTINF:-1,MTV ESPANA
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265581
+#EXTINF:-1,MEGA
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/269014
+#EXTINF:-1,MEGA SD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265587
+#EXTINF:-1,MEGA HD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/269015
+#EXTINF:-1,POPULAR TV
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265588
+#EXTINF:-1,TEN
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265589
+#EXTINF:-1,DKISS
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265590
 #EXTINF:0,SOL MUSICA
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-
+#EXTINF:-1,BE MAD
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265776
+#EXTINF:-1,MTV 00 's
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/265772
+#EXTINF:-1,VH1 Classics
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/212575
+#EXTINF:-1,MTV Music Made in Spain
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/212576
+#EXTINF:-1,MTV Love Music
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/212577
+#EXTINF:-1,MTV En Vivo
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/212578
+#EXTINF:-1,MTV Good Vibes
+http://pro.boxdigital.org:8080/hugok28395/92JfxmTfjcxz/212579
 
 
