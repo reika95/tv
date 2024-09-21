@@ -47,8 +47,6 @@ https://hls.watchtv.uk/jptv/bs04/index.m3u8?t=1718577377&token=c062de67753a09b16
 https://hls.watchtv.uk/jptv/bs05/index.m3u8?t=1718577448&token=a6e3a3c8f6581b65c56d59305b3130fe
 #EXTINF:0,fujitv
 https://hls.watchtv.uk/jptv/bs06/index.m3u8?t=1718577489&token=3e02da0695d8c22149c4aa259c58c973
-#EXTINF:0,fujitwo
-http://extraott.com/7921751389/6097373662/37660
 #EXTINF:0,Nippon mov
 https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:0,NHKG mov 
