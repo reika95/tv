@@ -5,7 +5,7 @@ http://77.228.160.100:61800/play/a007
 http://77.228.160.100:61800/play/a008
 #EXTINF:0,SD ANTENA 3
 http://77.228.160.100:61800/play/a00a
-#EXTINF:-1,ANTENA3 
+#EXTINF:-1,CUATRO 
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 #EXTINF:0,SD CUATRO
 https://directos.mitele.es/orilinear09/live/linear09/playlist/playlist.isml/ctv.m3u8
