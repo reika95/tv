@@ -1,13 +1,51 @@
 #EXTM3U
-#OLD 
-#EXTINF:0,Antena 3 SD
-http://488185459852321197.ofd0718.xyz:80/play/CLPYJCU953/nvGRbWXS9P/321107.m3u8
-#EXTINF:0,Cuatro SD
-http://488185459852321197.ofd0718.xyz:80/play/CLPYJCU953/nvGRbWXS9P/321198.m3u8
-#EXTINF:0,La Sexta SD
-http://488185459852321197.ofd0718.xyz:80/play/CLPYJCU953/nvGRbWXS9P/321290.m3u8
-#EXTINF:0,telecinco SD
-http://488185459852321197.ofd0718.xyz:80/play/CLPYJCU953/nvGRbWXS9P/321431.m3u8
+#EXTM3U
+#EXTINF:0,SD LA 1
+http://77.228.160.100:61800/play/a007
+#EXTINF:0,SD LA 2
+http://77.228.160.100:61800/play/a008
+#EXTINF:0,SD ANTENA 3
+http://77.228.160.100:61800/play/a00a
+#EXTINF:0,SD CUATRO
+https://directos.mitele.es/orilinear09/live/linear09/playlist/playlist.isml/ctv.m3u8
+#EXTINF:0,SD TELECINCO
+https://directos.mitele.es/orilinear01/live/linear01/playlist/playlist.isml/ctv.m3u8
+#EXTINF:-1,laSexta HD
+http://77.228.160.100:61800/play/a00b
+#EXTINF:0,BEMAD
+https://directos.mitele.es/orilinear02/live/linear02/playlist/playlist.isml/ctv.m3u8
+#EXTINF:0,ENERGY
+https://directos.mitele.es/orilinear03/live/linear03/playlist/playlist.isml/ctv.m3u8
+#EXTINF:0,DIVINITY
+https://directos.mitele.es/orilinear04/live/linear04/playlist/playlist.isml/ctv.m3u8
+#EXTINF:0,FDF
+https://directos.mitele.es/orilinear10/live/linear10/playlist/playlist.isml/ctv.m3u8
+#EXTINF:0,BOING
+https://directos.mitele.es/orilinear11/live/linear11/playlist/playlist.isml/ctv.m3u8
+#EXTINF:-1,laSexta HD
+http://77.228.160.100:61800/play/a00b
+#EXTINF:-1,neox
+http://77.228.160.100:61800/play/a00c
+#EXTINF:-1,nova
+http://77.228.160.100:61800/play/a00d
+#EXTINF:-1,DMAX HD
+http://77.228.160.100:61800/play/a00g
+#EXTINF:-1,Disney Channel
+http://77.228.160.100:61800/play/a00f
+#EXTINF:-1,Cuatro HD
+http://77.228.160.100:61800/play/a00l
+#EXTINF:-1,Telecinco HD
+http://77.228.160.100:61800/play/a00k
+#EXTINF:-1,FDF
+http://77.228.160.100:61800/play/a00i
+#EXTINF:-1,Divinity
+http://77.228.160.100:61800/play/a00j
+#EXTINF:-1,Clan HD
+http://77.228.160.100:61800/play/a00x
+#EXTINF:-1,DKISS
+http://77.228.160.100:61800/play/a00z
+
+
 #EXTINF:0,Cuatro
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_SD.smil/index.m3u8
 #EXTINF:0,La Sexta 
