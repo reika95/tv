@@ -1,0 +1,335 @@
+NHK G,vjms://14.102.154.164:8500/live/cid=309
+NHK E,vjms://14.102.154.164:8500/live/cid=318
+NHK BS1,vjms://14.102.154.164:8500/live/cid=301
+NHK BSP,vjms://14.102.154.164:8500/live/cid=303
+NIPPON TV,vjms://14.102.154.164:8500/live/cid=312
+FUJI TV,vjms://14.102.154.164:8500/live/cid=316
+TOKYO TV,vjms://14.102.154.164:8500/live/cid=315
+东京放送,vjms://14.102.154.164:8500/live/cid=314
+朝日放送,vjms://14.102.154.164:8500/live/cid=321
+ANIMAX,vjms://14.102.154.164:8500/live/cid=498
+STAR-2,vjms://14.102.154.164:8500/live/cid=191
+STAR-3,vjms://14.102.154.164:8500/live/cid=193
+WOWOWライブ,vjms://14.102.154.164:8500/live/cid=205
+日テレG+,vjms://14.102.154.164:8500/live/cid=207
+卫星剧场,vjms://14.102.154.164:8500/live/cid=208
+WOWOWシネマ,vjms://14.102.154.164:8500/live/cid=209
+A+,vjms://14.102.154.164:8500/live/cid=210
+ONE,vjms://14.102.154.164:8500/live/cid=212
+日本台,vjms://14.102.154.164:8500/live/cid=213
+KBSWORLD,vjms://14.102.154.164:8500/live/cid=216
+テレ朝ch2,vjms://14.102.154.164:8500/live/cid=217
+History JP,vjms://14.102.154.164:8500/live/cid=219
+TBSNews,vjms://14.102.154.164:8500/live/cid=220
+TBSch1,vjms://14.102.154.164:8500/live/cid=221
+テレ朝ch1,vjms://14.102.154.164:8500/live/cid=223
+WOWOWシネマ,vjms://14.102.154.164:8500/live/cid=224
+NHK BS 1,vjms://14.102.154.164:8500/live/cid=301
+BS 12,vjms://14.102.154.164:8500/live/cid=302
+NHK BS P,vjms://14.102.154.164:8500/live/cid=303
+BS日テレ,vjms://14.102.154.164:8500/live/cid=304
+BS TBS,vjms://14.102.154.164:8500/live/cid=305
+BS TV Tokyo,vjms://14.102.154.164:8500/live/cid=306
+BS Fuji,vjms://14.102.154.164:8500/live/cid=307
+BS Asahi,vjms://14.102.154.164:8500/live/cid=308
+TOKYO MX1,vjms://14.102.154.164:8500/live/cid=311
+日テレ,vjms://14.102.154.164:8500/live/cid=312
+Fuji TV,vjms://14.102.154.164:8500/live/cid=316
+TV ASAHI,vjms://14.102.154.164:8500/live/cid=313
+TBS,vjms://14.102.154.164:8500/live/cid=314
+TV TOKYO,vjms://14.102.154.164:8500/live/cid=315
+NHK G Osaka,vjms://14.102.154.164:8500/live/cid=317
+NHK E Osaka,vjms://14.102.154.164:8500/live/cid=318
+MBS,vjms://14.102.154.164:8500/live/cid=319
+SUN TV,vjms://14.102.154.164:8500/live/cid=320
+ABC,vjms://14.102.154.164:8500/live/cid=321
+TV OSAKA,vjms://14.102.154.164:8500/live/cid=322
+Kansai TV,vjms://14.102.154.164:8500/live/cid=323
+YTV,vjms://14.102.154.164:8500/live/cid=324
+WOWOWプライム,vjms://14.102.154.164:8500/live/cid=325
+STAR-1,vjms://14.102.154.164:8500/live/cid=326
+拳击频道,vjms://14.102.154.164:8500/live/cid=408
+GolfNetwork,vjms://14.102.154.164:8500/live/cid=409
+JSports3,vjms://14.102.154.164:8500/live/cid=410
+Jsports4,vjms://14.102.154.164:8500/live/cid=411
+GAORA,vjms://14.102.154.164:8500/live/cid=413
+Majong,vjms://14.102.154.164:8500/live/cid=414
+Jsports1,vjms://14.102.154.164:8500/live/cid=415
+Jsports2,vjms://14.102.154.164:8500/live/cid=416
+日テレG,vjms://14.102.154.164:8500/live/cid=492
+家庭剧场,vjms://14.102.154.164:8500/live/cid=493
+KIDS,vjms://14.102.154.164:8500/live/cid=494
+MusicJapan,vjms://14.102.154.164:8500/live/cid=495
+Discovery JP,vjms://14.102.154.164:8500/live/cid=496
+MoviePlus,vjms://14.102.154.164:8500/live/cid=497
+∣CNN 日本,vjms://14.102.154.164:8500/live/cid=428
+∣CNN 日本,vjms://14.102.154.164:8500/live/cid=428
+ABCテレビ-ABC,vjms://14.102.154.164:8500/live/cid=321&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+ABC地面波,vjms://14.102.154.164:8500/live/cid=321
+ABS朝日,vjms://14.102.154.164:8500/live/cid=376
+BBC,vjms://14.102.154.164:8500/live/cid=418#@vjms://14.102.154.164:8500/live/cid=418#@vjms://14.102.154.164:8500/live/cid=418&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=0Hyp5utkYzIZss6mvGOpe
+BS TBS,vjms://14.102.154.164:8500/live/cid=305
+BS TBS,vjms://14.102.154.164:8500/live/cid=380
+BS12 トゥエルビ-TwellV,vjms://14.102.154.164:8500/live/cid=302&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+BS-Fuji,vjms://14.102.154.164:8500/live/cid=307
+BS-GREEN,vjms://14.102.154.164:8500/live/cid=412&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+BS-i,vjms://14.102.154.164:8500/live/cid=305
+BS-Japan,vjms://14.102.154.164:8500/live/cid=306
+BS-JAPAN,vjms://14.102.154.164:8500/live/cid=306
+BSTBS,vjms://14.102.154.164:8500/live/cid=305&delay=200&httpbuf=200&memory=50
+BSTBS,vjms://14.102.154.164:8500/live/cid=305&delay=200&httpbuf=200&memory=50
+BS-TBS,vjms://14.102.154.164:8500/live/cid=305&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+BSアニマックス,p8p://0198.02686.cc:16871/5d414f0c0000e2af75f630bd8ab9817b.ts
+BSアニマックス-ANIMAX,vjms://14.102.154.164:8500/live/cid=498&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+BSジャパン,vjms://14.102.154.164:8500/live/cid=306&delay=200&httpbuf=200&memory=50
+BSジャパン,vjms://14.102.154.164:8500/live/cid=306&delay=200&httpbuf=200&memory=50
+BSジャパン-BS-Japan,vjms://14.102.154.164:8500/live/cid=306&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+BSスカパー,vjms://14.102.154.164:8500/live/cid=58&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+BSフジ,vjms://14.102.154.164:8500/live/cid=381
+BSフジ,vjms://14.102.154.164:8500/live/cid=307&delay=200&httpbuf=200&memory=50
+BSフジ,vjms://14.102.154.164:8500/live/cid=307
+BSフジ,vjms://14.102.154.164:8500/live/cid=307&delay=200&httpbuf=200&memory=50
+BSフジ-BS-Fuji,vjms://14.102.154.164:8500/live/cid=307&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+BSプレミアム,vjms://14.102.154.164:8500/live/cid=303&delay=200&httpbuf=200&memory=50
+BSプレミアム,vjms://14.102.154.164:8500/live/cid=303&delay=200&httpbuf=200&memory=50
+BS日テレ,vjms://14.102.154.164:8500/live/cid=304
+BS日テレ,vjms://14.102.154.164:8500/live/cid=304&delay=200&httpbuf=200&memory=50
+BS日テレ,vjms://14.102.154.164:8500/live/cid=375
+BS日テレ-BS-NTV,vjms://14.102.154.164:8500/live/cid=304&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+BS日本映画专门チャンネル-Nihon-Eiga,vjms://14.102.154.164:8500/live/cid=213&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+BS日本电视,vjms://14.102.154.164:8500/live/cid=304
+BS朝日,vjms://14.102.154.164:8500/live/cid=308&delay=200&httpbuf=200&memory=50
+BS朝日,vjms://14.102.154.164:8500/live/cid=308&delay=200&httpbuf=200&memory=50
+BS朝日,vjms://14.102.154.164:8500/live/cid=308
+BS朝日-BS-Asahi,vjms://14.102.154.164:8500/live/cid=308&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+BS钓りビジョン,vjms://14.102.154.164:8500/live/cid=55&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+CHANNEL A,vjms://14.102.154.164:8500/live/cid=167&delay=200&httpbuf=200&memory=50
+CINEFIL wow,vjms://14.102.154.164:8500/live/cid=209
+Discovery,vjms://14.102.154.164:8500/live/cid=496&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+Disney,vjms://14.102.154.164:8500/live/cid=499&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+EBS,vjms://14.102.154.164:8500/live/cid=148&delay=200&httpbuf=200&memory=50
+EX Sports,vjms://14.102.154.164:8500/live/cid=414
+EXsports,vjms://14.102.154.164:8500/live/cid=414&delay=200&httpbuf=200&memory=50
+EXsports,vjms://14.102.154.164:8500/live/cid=414&delay=200&httpbuf=200&memory=50
+EX-Sports-TV,vjms://14.102.154.164:8500/live/cid=414&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+Fighting TV,vjms://14.102.154.164:8500/live/cid=408
+FIGHTING TV サムライ-Fighting-TV,vjms://14.102.154.164:8500/live/cid=408&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+FightingTV,vjms://14.102.154.164:8500/live/cid=408&delay=200&httpbuf=200&memory=50
+FightingTV,vjms://14.102.154.164:8500/live/cid=408&delay=200&httpbuf=200&memory=50
+FOX スポーツエンタ,vjms://14.102.154.164:8500/live/cid=57
+FOXスポーツエンタ,vjms://14.102.154.164:8500/live/cid=57&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+FOX体育1,vjms://14.102.154.164:8500/live/cid=444
+FOX体育4,vjms://14.102.154.164:8500/live/cid=95
+FTV,vjms://14.102.154.164:8500/live/cid=169&delay=200&httpbuf=200&memory=50
+FX,vjms://14.102.154.164:8500/live/cid=162&delay=200&httpbuf=200&memory=50
+JTBC,vjms://14.102.154.164:8500/live/cid=144&delay=200&httpbuf=200&memory=50
+JTBC2,vjms://14.102.154.164:8500/live/cid=163&delay=200&httpbuf=200&memory=50
+JTBCGOLF,vjms://14.102.154.164:8500/live/cid=158&delay=200&httpbuf=200&memory=50
+KBS world,vjms://14.102.154.164:8500/live/cid=216
+KBS world,vjms://14.102.154.164:8500/live/cid=216&delay=200&httpbuf=200&memory=50
+KBS1,vjms://14.102.154.164:8500/live/cid=140&delay=200&httpbuf=200&memory=50
+KBSdrama,vjms://14.102.154.164:8500/live/cid=149&delay=200&httpbuf=200&memory=50
+KBSjoy,vjms://14.102.154.164:8500/live/cid=155&delay=200&httpbuf=200&memory=50
+KBSNSPORTS,vjms://14.102.154.164:8500/live/cid=153&delay=200&httpbuf=200&memory=50
+KBS-World,vjms://14.102.154.164:8500/live/cid=184&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+KIDS,vjms://14.102.154.164:8500/live/cid=494&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+MBCdrama,vjms://14.102.154.164:8500/live/cid=150&delay=200&httpbuf=200&memory=50
+MBCsports,vjms://14.102.154.164:8500/live/cid=154&delay=200&httpbuf=200&memory=50
+MBN,vjms://14.102.154.164:8500/live/cid=147&delay=200&httpbuf=200&memory=50
+MBSラジオ-MBS,vjms://14.102.154.164:8500/live/cid=319&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+ＭＢＳ毎日放送,vjms://14.102.154.164:8500/live/cid=319
+MNET,vjms://14.102.154.164:8500/live/cid=161&delay=200&httpbuf=200&memory=50
+Movie Plus,vjms://14.102.154.164:8500/live/cid=497#@vjms://14.102.154.164:8500:3502:3502/live/cid=497&delay=200&httpbuf=200&memory=50
+Movie Plus,vjms://14.102.154.164:8500/live/cid=497
+MoviePlus,vjms://14.102.154.164:8500/live/cid=497&delay=200&httpbuf=200&memory=50
+MoviePlus,vjms://14.102.154.164:8500/live/cid=497&delay=200&httpbuf=200&memory=50
+MTV,vjms://14.102.154.164:8500/live/cid=52&delay=200&httpbuf=200&memory=50key=GomMTgBg1MHzoTQ1GbB9ee
+Music Japan TV,vjms://14.102.154.164:8500/live/cid=495&delay=200&httpbuf=200&memory=50
+Music Japan TV,vjms://14.102.154.164:8500/live/cid=495&delay=200&httpbuf=200&memory=50
+Music Japan TV,vjms://14.102.154.164:8500/live/cid=495
+Music-JAPAN,vjms://14.102.154.164:8500/live/cid=495&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+NEWSTV,vjms://14.102.154.164:8500/live/cid=168&delay=200&httpbuf=200&memory=50
+NHK BS1-NHK BS1,vjms://14.102.154.164:8500/live/cid=301&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+NHK BSプレミアム-NHK BS-Premium,vjms://14.102.154.164:8500/live/cid=303&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+NHK Eテレ,vjms://14.102.154.164:8500/live/cid=310&delay=200&httpbuf=200&memory=50
+NHK Eテレ1东京 关东-NHK-E KANTO,vjms://14.102.154.164:8500/live/cid=310&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+NHK Eテレ1东京 关西-NHK-E KANSAI,vjms://14.102.154.164:8500/live/cid=318&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+NHK G,vjms://14.102.154.164:8500/live/cid=309&delay=200&httpbuf=200&memory=50
+NHKE大阪,vjms://14.102.154.164:8500/live/cid=318&delay=200&httpbuf=200&memory=50
+NHKE大阪,vjms://14.102.154.164:8500/live/cid=318&delay=200&httpbuf=200&memory=50
+NHK广岛放送,vjms://14.102.154.164:8500/live/cid=301
+NHK綜合大阪,vjms://14.102.154.164:8500/live/cid=317&delay=200&httpbuf=200&memory=50
+NHK綜合大阪,vjms://14.102.154.164:8500/live/cid=317&delay=200&httpbuf=200&memory=50
+NHK综合,vjms://14.102.154.164:8500/live/cid=309
+NHK综合1关东-NHK-G KANTO,vjms://14.102.154.164:8500/live/cid=309&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+NHK综合1关西-NHK-G KANSAI,vjms://14.102.154.164:8500/live/cid=317&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+NHK综合CS-NHK-G CS,vjms://14.102.154.164:8500/live/cid=139&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+OCN,vjms://14.102.154.164:8500/live/cid=160&delay=200&httpbuf=200&memory=50
+OTVN,vjms://14.102.154.164:8500/live/cid=165&delay=200&httpbuf=200&memory=50
+QVC,vjms://14.102.154.164:8500/live/cid=302
+Rajawali_TV,tvbus://4Zf8jtuB7xURG1FFnTis9GrNBYZ4Z8Bksy6pj1Vf1XzEcnFS5v
+SAN电视台,vjms://14.102.154.164:8500/live/cid=320
+SBS,vjms://14.102.154.164:8500/live/cid=143&delay=200&httpbuf=200&memory=50
+SBSfune,vjms://14.102.154.164:8500/live/cid=164&delay=200&httpbuf=200&memory=50
+SBSGOLF,vjms://14.102.154.164:8500/live/cid=159&delay=200&httpbuf=200&memory=50
+SBSplus,vjms://14.102.154.164:8500/live/cid=152&delay=200&httpbuf=200&memory=50
+SBSSPORTS,vjms://14.102.154.164:8500/live/cid=156&delay=200&httpbuf=200&memory=50
+Sports 2,vjms://14.102.154.164:8500/live/cid=416
+sports1,vjms://14.102.154.164:8500/live/cid=415
+SPOTV,vjms://14.102.154.164:8500/live/cid=157&delay=200&httpbuf=200&memory=50
+SPOTV2,vjms://14.102.154.164:8500/live/cid=151&delay=200&httpbuf=200&memory=50
+Star 1,vjms://14.102.154.164:8500/live/cid=326&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+Star 2,vjms://14.102.154.164:8500/live/cid=191&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+Star 3,vjms://14.102.154.164:8500/live/cid=193&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+Star channel,vjms://14.102.154.164:8500/live/cid=494
+STAR CHANNEL(BS),vjms://14.102.154.164:8500/live/cid=326
+Star Channel-1,vjms://14.102.154.164:8500/live/cid=326
+Star Channel-2,vjms://14.102.154.164:8500/live/cid=191
+Star Channel-3,vjms://14.102.154.164:8500/live/cid=193
+TBS-1,vjms://14.102.154.164:8500/live/cid=221&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+TBSCh1,vjms://14.102.154.164:8500/live/cid=221&delay=200&httpbuf=200&memory=50
+TBSCh1,vjms://14.102.154.164:8500/live/cid=221&delay=200&httpbuf=200&memory=50
+TBSテレビ,vjms://14.102.154.164:8500/live/cid=314&delay=200&httpbuf=200&memory=50
+TBSテレビ-TBS,vjms://14.102.154.164:8500/live/cid=314&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+ＴＢＳニュースバード,vjms://14.102.154.164:8500/live/cid=220&delay=200&httpbuf=200&memory=50
+ＴＢＳニュースバード,vjms://14.102.154.164:8500/live/cid=220&delay=200&httpbuf=200&memory=50
+TBSニュースバード-TBS-News-bird,vjms://14.102.154.164:8500/live/cid=220&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+TBSニュ-スバ-ド,vjms://14.102.154.164:8500/live/cid=220
+TOKYO MX,vjms://14.102.154.164:8500/live/cid=311&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+TOKYO MX,vjms://14.102.154.164:8500/live/cid=311&delay=200&httpbuf=200&memory=50
+TVBS新闻,vjms://14.102.154.164:8500/live/cid=348
+TV-CHOSUN,vjms://14.102.154.164:8500/live/cid=166&delay=200&httpbuf=200&memory=50
+TVN,vjms://14.102.154.164:8500/live/cid=146&delay=200&httpbuf=200&memory=50
+WOWOW プライム,vjms://14.102.154.164:8500/live/cid=325
+WOWOWシネマ,vjms://14.102.154.164:8500/live/cid=224
+WOWOWシネマ,vjms://14.102.154.164:8500/live/cid=427
+WOWOWシネマ,vjms://14.102.154.164:8500/live/cid=224&delay=200&httpbuf=200&memory=50
+WOWOWシネマ,vjms://14.102.154.164:8500/live/cid=224&delay=200&httpbuf=200&memory=50
+WOWOWシネマ-WOWOW Cinema,vjms://14.102.154.164:8500/live/cid=224&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+WOWOWプライム,vjms://14.102.154.164:8500/live/cid=325&delay=200&httpbuf=200&memory=50
+WOWOWプライム,vjms://14.102.154.164:8500/live/cid=325&delay=200&httpbuf=200&memory=50
+WOWOWプライム-WOWOW Prime,vjms://14.102.154.164:8500/live/cid=325&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+WOWOWライブ,vjms://14.102.154.164:8500/live/cid=205&delay=200&httpbuf=200&memory=50
+WOWOWライブ-WOWOW Live,vjms://14.102.154.164:8500/live/cid=205&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+WOWOW电影,vjms://14.102.154.164:8500/live/cid=325
+WOWライブ,vjms://14.102.154.164:8500/live/cid=205
+YTN,vjms://14.102.154.164:8500/live/cid=145&delay=200&httpbuf=200&memory=50
+イマジカBS-Imagica-BS-Cinefil,vjms://14.102.154.164:8500/live/cid=209&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+キッズステーション,vjms://14.102.154.164:8500/live/cid=494&delay=200&httpbuf=200&memory=50
+キッズステーション,vjms://14.102.154.164:8500/live/cid=494&delay=200&httpbuf=200&memory=50
+サンテレビ,vjms://14.102.154.164:8500/live/cid=320&delay=200&httpbuf=200&memory=50
+サンテレビ,vjms://14.102.154.164:8500/live/cid=320&delay=200&httpbuf=200&memory=50
+サンテレビ,vjms://14.102.154.164:8500/live/cid=320
+サンテレビ-SUN,vjms://14.102.154.164:8500/live/cid=320&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+スカイA CS-SKY-A-Sports+,vjms://14.102.154.164:8500/live/cid=210&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+スカイＡ＋,vjms://14.102.154.164:8500/live/cid=210
+スターチャンネル1,vjms://14.102.154.164:8500/live/cid=326&delay=200&httpbuf=200&memory=50
+スターチャンネル1,vjms://14.102.154.164:8500/live/cid=326&delay=200&httpbuf=200&memory=50
+スペースシャワー,vjms://14.102.154.164:8500/live/cid=54&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+テレビ东京,vjms://14.102.154.164:8500/live/cid=315&delay=200&httpbuf=200&memory=50
+テレビ东京-TV Tokyo,vjms://14.102.154.164:8500/live/cid=315&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+テレビ大阪,vjms://14.102.154.164:8500/live/cid=322&delay=200&httpbuf=200&memory=50
+テレビ大阪,vjms://14.102.154.164:8500/live/cid=322&delay=200&httpbuf=200&memory=50
+テレビ大阪-TV Osaka,vjms://14.102.154.164:8500/live/cid=322&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+テレビ朝日,vjms://14.102.154.164:8500/live/cid=313&delay=200&httpbuf=200&memory=50
+テレビ朝日,vjms://14.102.154.164:8500/live/cid=313
+テレビ朝日1-TV Asahi-1,vjms://14.102.154.164:8500/live/cid=223&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+テレビ朝日2-TV Asahi-2,vjms://14.102.154.164:8500/live/cid=217&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+テレビ朝日-TV Asahi,vjms://14.102.154.164:8500/live/cid=313&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+テレ朝 Ch１,vjms://14.102.154.164:8500/live/cid=223
+テレ朝Ch1,vjms://14.102.154.164:8500/live/cid=223&delay=200&httpbuf=200&memory=50
+テレ朝Ch2,vjms://14.102.154.164:8500/live/cid=217&delay=200&httpbuf=200&memory=50
+テレ朝Ch２,vjms://14.102.154.164:8500/live/cid=217
+ヒストリ,vjms://14.102.154.164:8500/live/cid=219
+ヒストリーチャンネル,vjms://14.102.154.164:8500/live/cid=219&delay=200&httpbuf=200&memory=50
+ヒストリーチャンネル,vjms://14.102.154.164:8500/live/cid=219&delay=200&httpbuf=200&memory=50
+ヒストリーチャンネル-History,vjms://14.102.154.164:8500/live/cid=219&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+ファミリー剧场-Fami Gekijo HD,vjms://14.102.154.164:8500/live/cid=493&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+ファミリー劇場,vjms://14.102.154.164:8500/live/cid=493&delay=200&httpbuf=200&memory=50
+ファミリー劇場,vjms://14.102.154.164:8500/live/cid=493&delay=200&httpbuf=200&memory=50
+ファミリー劇場,vjms://14.102.154.164:8500/live/cid=493
+フジTV ONE,vjms://14.102.154.164:8500/live/cid=212
+フジテレビ ONE-Fuji ONE,vjms://14.102.154.164:8500/live/cid=212&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+フジテレビ-Fuji TV,vjms://14.102.154.164:8500/live/cid=316&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+フジテレビNEXT,vjms://14.102.154.164:8500/live/cid=51&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+フジテレビNEXT,vjms://14.102.154.164:8500/live/cid=54
+フジテレビジョン,vjms://14.102.154.164:8500/live/cid=316&delay=200&httpbuf=200&memory=50
+ムービープラス-Movie Plus,vjms://14.102.154.164:8500/live/cid=497&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+レ,vjms://14.102.154.164:8500/live/cid=304&delay=200&httpbuf=200&memory=50
+东京MX,vjms://14.102.154.164:8500/live/cid=311
+东京电视台,vjms://14.102.154.164:8500/live/cid=315
+关西テレビ-KTV,vjms://14.102.154.164:8500/live/cid=323&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+卫星剧场,vjms://14.102.154.164:8500/live/cid=208
+地面波,vjms://14.102.154.164:8500/live/cid=323
+大阪地面波,vjms://14.102.154.164:8500/live/cid=322
+富士电视台,vjms://14.102.154.164:8500/live/cid=316
+日-J,vjms://58.215.133.154:8500/live/cid=495
+日テレG+HD-NTV-G+,vjms://14.102.154.164:8500/live/cid=207&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+日テレNEWS24,vjms://14.102.154.164:8500/live/cid=53&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+日テレNEWS24,vjms://14.102.154.164:8500/live/cid=53
+日テレPLUS - NTV-PLUS,vjms://14.102.154.164:8500/live/cid=492&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+日テレプラス,vjms://14.102.154.164:8500/live/cid=492
+日テレプラス,vjms://14.102.154.164:8500/live/cid=492&delay=200&httpbuf=200&memory=50
+日テレプラス,vjms://14.102.154.164:8500/live/cid=492&delay=200&httpbuf=200&memory=50
+日本∣ANIMAX,vjms://14.102.154.164:8500/live/cid=498
+日本∣CINEMA 洋片,vjms://14.102.154.164:8500/live/cid=209
+日本∣CINEMA 洋片,vjms://14.102.154.164:8500/live/cid=209
+日本∣Discovery,vjms://14.102.154.164:8500/live/cid=496
+日本∣FIGHTING,vjms://14.102.154.164:8500/live/cid=408
+日本∣Fuji TV NEXT,vjms://14.102.154.164:8500/live/cid=54
+日本∣FUJI TV ONE,vjms://14.102.154.164:8500/live/cid=212
+日本∣FUJI TV ONE,vjms://14.102.154.164:8500/live/cid=212
+日本∣HBO,vjms://14.102.154.164:8500/live/cid=261
+日本∣HISTORY,vjms://14.102.154.164:8500/live/cid=219
+日本∣KBSWORLD,vjms://14.102.154.164:8500/live/cid=216
+日本∣Movieplus,vjms://14.102.154.164:8500/live/cid=497
+日本∣MTV,vjms://14.102.154.164:8500/live/cid=52
+日本∣MTV,vjms://14.102.154.164:8500/live/cid=52
+日本∣NHKE,vjms://14.102.154.164:8500/live/cid=318
+日本∣NHKG,vjms://14.102.154.164:8500/live/cid=317
+日本∣Space Shower TV,vjms://14.102.154.164:8500/live/cid=51
+日本∣Space Shower TV,vjms://14.102.154.164:8500/live/cid=51
+日本∣Sports,vjms://14.102.154.164:8500/live/cid=414
+日本∣TBS,vjms://14.102.154.164:8500/live/cid=314
+日本∣TBS1,vjms://14.102.154.164:8500/live/cid=221
+日本∣TBSNEWS,vjms://14.102.154.164:8500/live/cid=220
+日本∣WOWOW,vjms://14.102.154.164:8500/live/cid=205
+日本∣ファミリー剧场,vjms://14.102.154.164:8500/live/cid=493
+日本∣ファミリー剧场,vjms://14.102.154.164:8500/live/cid=493
+日本∣卫星剧场,vjms://14.102.154.164:8500/live/cid=208
+日本∣日-J,vjms://14.102.154.164:8500/live/cid=495
+日本∣日本电剧,vjms://14.102.154.164:8500/live/cid=213
+日本∣日本钓鱼,vjms://14.102.154.164:8500/live/cid=55
+日本∣日本频道,vjms://14.102.154.164:8500/live/cid=492
+日本∣星空电影1,vjms://14.102.154.164:8500/live/cid=326
+日本∣朝日1,vjms://14.102.154.164:8500/live/cid=223
+日本∣迪士尼,vjms://14.102.154.164:8500/live/cid=499
+日本BS,vjms://14.102.154.164:8500/live/cid=58
+日本STAR2,vjms://14.102.154.164:8500/live/cid=191
+日本STAR3,vjms://14.102.154.164:8500/live/cid=193
+日本テレビ,vjms://14.102.154.164:8500/live/cid=312&delay=200&httpbuf=200&memory=50
+日本テレビ-NTV,vjms://14.102.154.164:8500/live/cid=312&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+日本棒球,vjms://14.102.154.164:8500/live/cid=207
+日野生,vjms://14.102.154.164:8500/live/cid=303
+映剧ライヴエンタテイメント-Eigeki,vjms://14.102.154.164:8500/live/cid=208&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+時代劇専門チャンネル,vjms://14.102.154.164:8500/live/cid=213&delay=200&httpbuf=200&memory=50
+時代劇専門チャンネル,vjms://14.102.154.164:8500/live/cid=213&delay=200&httpbuf=200&memory=50
+朝日放送,vjms://14.102.154.164:8500/live/cid=321&delay=200&httpbuf=200&memory=50
+朝日放送,vjms://14.102.154.164:8500/live/cid=321&delay=200&httpbuf=200&memory=50
+朝日电视台,vjms://14.102.154.164:8500/live/cid=313
+毎日放送,vjms://14.102.154.164:8500/live/cid=319&delay=200&httpbuf=200&memory=50
+毎日放送,vjms://14.102.154.164:8500/live/cid=319&delay=200&httpbuf=200&memory=50
+每日放送,vjms://14.102.154.164:8500/live/cid=319
+衛星劇場,vjms://14.102.154.164:8500/live/cid=208&delay=200&httpbuf=200&memory=50
+衛星劇場,vjms://14.102.154.164:8500/live/cid=208
+衛星劇場,vjms://14.102.154.164:8500/live/cid=208&delay=200&httpbuf=200&memory=50
+読売テレビ,vjms://14.102.154.164:8500/live/cid=324&delay=200&httpbuf=200&memory=50
+読売テレビ,vjms://14.102.154.164:8500/live/cid=324&delay=200&httpbuf=200&memory=50
+读卖テレビ-YTV,vjms://14.102.154.164:8500/live/cid=324&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
+读卖新闻,vjms://14.102.154.164:8500/live/cid=324
+関東-NHK教育,vjms://14.102.154.164:8500/live/cid=310
+関東-東京MX,vjms://14.102.154.164:8500/live/cid=311
+関西-NHK総合,vjms://14.102.154.164:8500/live/cid=317
+関西テレビ,vjms://14.102.154.164:8500/live/cid=323&delay=200&httpbuf=200&memory=50
+関西テレビ,vjms://14.102.154.164:8500/live/cid=323&delay=200&httpbuf=200&memory=50
+MTV　HD,vjms://14.102.154.164:8500/live/cid=107
