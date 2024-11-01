@@ -131,5 +131,48 @@ http://cookies.elementfx.com/ublive/ublive.php?id=2300
 http://cookies.elementfx.com/ublive/ublive.php?id=2301
 #EXTINF:0,フジ next
 http://cookies.elementfx.com/ublive/ublive.php?id=2750
-
+#EXTINF:0,TBS
+http://api.xiptv.x10.bz/anbo/?id=124
+#EXTINF:0,TBS
+http://api.xiptv.x10.bz/anbo/?id=2201
+#EXTINF:0,アニマックス
+http://api.xiptv.x10.bz/anbo/?id=139
+#EXTINF:0,グリーンチャンネル
+http://api.xiptv.x10.bz/anbo/?id=140
+#EXTINF:0,キッズステーション
+http://api.xiptv.x10.bz/anbo/?id=289
+#EXTINF:0,MUSIC jp TV
+http://api.xiptv.x10.bz/anbo/?id=288
+#EXTINF:0,BS日本映画専門Ch
+http://api.xiptv.x10.bz/anbo/?id=2219
+#EXTINF:0,Discovery Japan
+http://api.xiptv.x10.bz/anbo/?id=290
+#EXTINF:0,衛星劇場
+http://api.xiptv.x10.bz/anbo/?id=2345
+#EXTINF:0,日テレG＋
+http://api.xiptv.x10.bz/anbo/?id=2434
+#EXTINF:0,兵庫県の最新
+http://api.xiptv.x10.bz/anbo/?id=1142
+#EXTINF:0,TBS
+http://api.xiptv.x10.bz/anbo/?id=2917
+#EXTINF:0,BS-富士
+http://api.xiptv.x10.bz/anbo/?id=2919
+#EXTINF:0,フジテレビ富士
+http://api.xiptv.x10.bz/anbo/?id=2920
+#EXTINF:0,テレビ朝日
+http://api.xiptv.x10.bz/anbo/?id=2921
+#EXTINF:0,テレビ東京
+http://api.xiptv.x10.bz/anbo/?id=2922
+#EXTINF:0,日本テレビ
+http://api.xiptv.x10.bz/anbo/?id=2923
+#EXTINF:0,スター・チャンネル
+http://api.xiptv.x10.bz/anbo/?id=3210
+#EXTINF:0,BS朝日
+http://api.xiptv.x10.bz/anbo/?id=3213
+#EXTINF:0,BS-TBS
+http://api.xiptv.x10.bz/anbo/?id=3214
+#EXTINF:0,JSPORTS 1
+http://api.xiptv.x10.bz/anbo/?id=1210
+#EXTINF:0,BS日テレ
+http://api.xiptv.x10.bz/anbo/?id=1215
 
