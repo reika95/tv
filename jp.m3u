@@ -75,7 +75,8 @@ http://cookies.elementfx.com/ublive/ublive.php?id=136
 http://cookies.elementfx.com/ublive/ublive.php?id=119
 #EXTINF:0,毎日放送
 http://cookies.elementfx.com/ublive/ublive.php?id=199
-ゴルフネットワーク,http://cookies.elementfx.com/ublive/ublive.php?id=249
+#EXTINF:0,ゴルフネットワーク
+http://cookies.elementfx.com/ublive/ublive.php?id=249
 #EXTINF:0,HTB北海道
 http://cookies.elementfx.com/ublive/ublive.php?id=39
 #EXTINF:0,日テレG+
@@ -92,16 +93,17 @@ http://cookies.elementfx.com/ublive/ublive.php?id=140
 http://cookies.elementfx.com/ublive/ublive.php?id=289
 #EXTINF:0,静岡ニュース
 http://cookies.elementfx.com/ublive/ublive.php?id=297
-カートゥーンネットワーク,http://cookies.elementfx.com/ublive/ublive.php?id=1296
+#EXTINF:0,カートゥーンネットワーク
+http://cookies.elementfx.com/ublive/ublive.php?id=1296
 #EXTINF:0,MUSIC ON! TV
 http://cookies.elementfx.com/ublive/ublive.php?id=288
-新潟ニュース
+#EXTINF:0,新潟ニュース
 http://cookies.elementfx.com/ublive/ublive.php?id=2218
 #EXTINF:0,BS日本映画専門Ch
 http://cookies.elementfx.com/ublive/ublive.php?id=2219
 #EXTINF:0,Disney チャンネル
 http://cookies.elementfx.com/ublive/ublive.php?id=290
-衛星劇場
+#EXTINF:0,衛星劇場
 http://cookies.elementfx.com/ublive/ublive.php?id=2345
 #EXTINF:0,日テレG＋
 http://cookies.elementfx.com/ublive/ublive.php?id=2434
