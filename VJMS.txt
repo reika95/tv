@@ -333,3 +333,6 @@ YTN,vjms://14.102.154.164:8500/live/cid=145&delay=200&httpbuf=200&memory=50
 関西テレビ,vjms://14.102.154.164:8500/live/cid=323&delay=200&httpbuf=200&memory=50
 関西テレビ,vjms://14.102.154.164:8500/live/cid=323&delay=200&httpbuf=200&memory=50
 MTV　HD,vjms://14.102.154.164:8500/live/cid=107
+日本テレビ,mitv://generationnexxxt.com:19806/e80a9ec279aa43d5b522c3aaa423d94a
+TBSテレビ,mitv://generationnexxxt.com:19806/fdad2c089577402c9ab17c3cb04feb40
+テレビ東京,mitv://generationnexxxt.com:19806/1a823472c62148dd96e66a8a392c22db
