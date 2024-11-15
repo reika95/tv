@@ -119,3 +119,6 @@ https://ddy1.iosplayer.ru/tshttp/ddy1/premium531/mono.m3u8?token=none
 https://ddy1.iosplayer.ru/tshttp/ddy1/premium532/mono.m3u8?token=none
 #EXTINF:-1,ES - CUATRO
 https://ddy1.iosplayer.ru/tshttp/ddy1/premium535/mono.m3u8?token=none
+#EXTINF:-4, La Sexta HD
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
+
