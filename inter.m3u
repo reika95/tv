@@ -125,3 +125,29 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/mani
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_SD.smil/manifest.m3u8
 #EXTINF:-4, BEING2
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/56543
+#EXTINF:-1,ES| LA 1 SD
+http://extraott.com:80/live/1577882060/3714659100/400218269.m3u8
+#EXTINF:-1,ES| LA 2 SD
+http://extraott.com:80/live/1577882060/3714659100/1239.m3u8
+#EXTINF:-1,ES| LA SEXTA SD
+http://extraott.com:80/live/1577882060/3714659100/400218265.m3u8
+#EXTINF:-1,ES| TELECINCO SD
+http://extraott.com:80/live/1577882060/3714659100/400218266.m3u8
+#EXTINF:-1,ES| CUATRO SD
+http://extraott.com:80/live/1577882060/3714659100/400218267.m3u8
+#EXTINF:-1,ES| ANTENA 3 SD
+http://extraott.com:80/live/1577882060/3714659100/400218268.m3u8
+#EXTINF:-1,ES| ENERGY SD
+http://extraott.com:80/live/1577882060/3714659100/1210.m3u8
+#EXTINF:-1,ES| MEGA SD
+http://extraott.com:80/live/1577882060/3714659100/1215.m3u8
+#EXTINF:-1,ES| XTRM SD
+http://extraott.com:80/live/1577882060/3714659100/1219.m3u8
+#EXTINF:-1,ES| NEOX SD
+http://extraott.com:80/live/1577882060/3714659100/1226.m3u8
+#EXTINF:-1,FR-CAR| PLANETE+ AVENTURE
+http://extraott.com:80/live/1577882060/3714659100/4363.m3u8
+#EXTINF:-1,FR-CAR| PLANETE+
+http://extraott.com:80/live/1577882060/3714659100/4364.m3u8
+#EXTINF:-1,FR-CAR| GAME ONE
+http://extraott.com:80/live/1577882060/3714659100/4382.m3u8
