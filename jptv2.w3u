@@ -1,0 +1,121 @@
+{
+"name": "JPTV",
+"author": "reika",
+"url": "reika",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/640px-Flag_of_Japan.svg.png",
+"telegram": "0",
+"info": "",
+"stations":
+    [
+        {
+        "name": "fujitv",
+        "info":"[ jptv  ]",
+        "image": "https://enz.gdplayertv.to/assets/img/logo/fuji-tv.png",
+        "url": "https://enz.gdplayertv.to/live-tv/fuji-tv/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        }, 
+        {
+        "name": "tbs",
+        "info":"[ jptv  ]",
+        "image": "https://enz.gdplayertv.to/assets/img/logo/tbs-tv-japan.png",
+        "url": "https://enz.gdplayertv.to/live-tv/tbs-tv-jp/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        }, 
+        {
+        "name": "tvtokyo",
+        "info":"[ jptv  ]",
+        "image": "https://enz.gdplayertv.to/assets/img/logo/tv-tokyo.png",
+        "url": "https://enz.gdplayertv.to/live-tv/tv-tokyo/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "space shower tv plus",
+        "info":"[ jptv  ]",
+        "image": "https://enz.gdplayertv.to/assets/img/logo/space-shower-tv-plus.png",
+        "url": "https://enz.gdplayertv.to/live-tv/space-shower-tv-plus/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "ntv",
+        "info":"[ jptv  ]",
+        "image": "https://enz.gdplayertv.to/assets/img/logo/nippon-tv.png",
+        "url": "https://enz.gdplayertv.to/live-tv/nippon-tv/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "asahitv",
+        "info":"[ jptv  ]",
+        "image": "https://enz.gdplayertv.to/assets/img/logo/tv-asahi.png",
+        "url": "https://enz.gdplayertv.to/live-tv/tv-asahi/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "space shower tv",
+        "info":"[ jptv  ]",
+        "image": "https://enz.gdplayertv.to/assets/img/logo/space-shower-tv.png",
+        "url": "https://enz.gdplayertv.to/live-tv/space-shower-tv/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "music japan tv",
+        "info":"[ jptv  ]",
+        "image": "https://enz.gdplayertv.to/assets/img/logo/music-japan-tv.png",
+        "url": "https://enz.gdplayertv.to/live-tv/music-japan-tv/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "music on tv",
+        "info":"[ jptv  ]",
+        "image": "https://enz.gdplayertv.to/assets/img/logo/music-on-tv.png",
+        "url": "https://enz.gdplayertv.to/live-tv/music-on-tv/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "mtv jp",
+        "info":"[ jptv  ]",
+        "image": "https://enz.gdplayertv.to/assets/img/logo/mtv-japan.png",
+        "url": "https://enz.gdplayertv.to/live-tv/mtv-jp/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        },
+        {
+        "name": "mnetjp",
+        "info":"[ jptv  ]",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png",
+        "url": "https://enz.gdplayertv.to/live-tv/sky-perfectv/?embed=1",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "online":"true",
+        "embed": "true",
+        "isHost":""
+        }
+	]
+}
