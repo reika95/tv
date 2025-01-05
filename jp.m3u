@@ -147,4 +147,5 @@ http://api.xiptv.x10.bz/anbo/?id=3214
 http://api.xiptv.x10.bz/anbo/?id=1210
 #EXTINF:0,BS日テレ
 http://api.xiptv.x10.bz/anbo/?id=1215
-
+#EXTINF:0,TEST
+https://enz.gdplayertv.to:443/hls/?tv=fuji-tv&bypass=0&token=Q04xMS9qbkllTDloazgwQlJHWi90UT09Ojr0NjCkM3xICGw3Oy12F%2BYm
