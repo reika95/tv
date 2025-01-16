@@ -196,4 +196,17 @@ https://jmp2.uk/sam-USBD3300010L9.m3u8
 #EXTINF:-1,M:,,XITE Rock x Metal
 https://jmp2.uk/sam-USBB2300004KV.m3u8
 #EXTINF:0,TBSテレビ (720p Willfon)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0,SD CUATRO
+https://directos.mitele.es/orilinear09/live/linear09/playlist/playlist.isml/ctv.m3u8
+#EXTINF:0,SD TELECINCO
+https://directos.mitele.es/orilinear01/live/linear01/playlist/playlist.isml/ctv.m3u8
+#EXTINF:0,BEMAD
+https://directos.mitele.es/orilinear02/live/linear02/playlist/playlist.isml/ctv.m3u8
+#EXTINF:0,ENERGY
+https://directos.mitele.es/orilinear03/live/linear03/playlist/playlist.isml/ctv.m3u8
+#EXTINF:0,DIVINITY
+https://directos.mitele.es/orilinear04/live/linear04/playlist/playlist.isml/ctv.m3u8
+#EXTINF:0,FDF
+https://directos.mitele.es/orilinear10/live/linear10/playlist/playlist.isml/ctv.m3u8
+#EXTINF:0,BOING
+https://directos.mitele.es/orilinear11/live/linear11/playlist/playlist.isml/ctv.m3u8
