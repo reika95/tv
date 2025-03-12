@@ -61,5 +61,6 @@ https://stream1.freetv.fun/wowowshinema-3.m3u8
 https://stream1.freetv.fun/wowowpuraimu-1.m3u8
 #EXTINF:0,TBSテレビ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
+#EXTINF:0,FOX 5 NYC
+https://dcs-live-ue4.mp.lura.live/server/play/V72qBb2IvL6ESNpj/rendition.m3u8?track=video-3&anvsid=m177635098-nb0eb813ddc6ae2097bc9cc154ed9d3d2&ts=1741783327&anvtrid=4140268821e391bf9aead89f08724a21
 
