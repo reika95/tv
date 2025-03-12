@@ -208,6 +208,8 @@ https://directos.mitele.es/orilinear03/live/linear03/playlist/playlist.isml/ctv.
 https://directos.mitele.es/orilinear04/live/linear04/playlist/playlist.isml/ctv.m3u8
 #EXTINF:0,FDF
 https://directos.mitele.es/orilinear10/live/linear10/playlist/playlist.isml/ctv.m3u8
+#EXTINF:0,FOX 5 NYC
+https://dcs-live-ue4.mp.lura.live/server/play/V72qBb2IvL6ESNpj/rendition.m3u8?track=video-3&anvsid=m177635098-nb0eb813ddc6ae2097bc9cc154ed9d3d2&ts=1741783327&anvtrid=4140268821e391bf9aead89f08724a21
 #EXTINF:0,BOING
 https://directos.mitele.es/orilinear11/live/linear11/playlist/playlist.isml/ctv.m3u8
 #EXTINF:0,-2M
