@@ -15,6 +15,8 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1,NEOX
 http://185.189.225.150:85/neox/index.m3u8
+#EXTINF:-1,Pop World
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTINF:0,TF1
 https://live-tf1-hls.cdn-3.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIyLjMuNTguOTMiLCJjbWNkIjoiIiwiZXhwIjoxNzI3NDUwMzg5LCJnaWQiOiIwNDZiOTUyMy03MDdkLTQ3NjMtODFjNi1lNDM1NTQxMjE3ZDUiLCJpYXQiOjE3Mjc0MzU5ODksImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiIwNDZiOTUyMy03MDdkLTQ3NjMtODFjNi1lNDM1NTQxMjE3ZDUifQ.zR468tl2SS_I49aD-nL6yHjnyalukGNf8gdToqfArcA/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index_2.m3u8
 #EXTINF:0,SOL MUSICA
