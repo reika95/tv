@@ -17,6 +17,18 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1,NEOX
 http://185.189.225.150:85/neox/index.m3u8
+#EXTINF:-1,ten
+https://tvnoov.com/fadoo/ten.m3u8
+#EXTINF:-1,dmax
+https://tvnoov.com/fadoo/dmax.m3u8
+#EXTINF:-1,energy
+https://tvnoov.com/fadoo/energy.m3u8
+#EXTINF:-1,bemadtv
+https://tvnoov.com/fadoo/bemadtvhd.m3u8
+#EXTINF:-1,cuatro
+https://tvnoov.com/fadoo/cuatrohd.m3u8
+#EXTINF:-1,divinity
+https://tvnoov.com/fadoo/divinity.m3u8
 #EXTINF:-1,Pop World
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTINF:0,TF1
