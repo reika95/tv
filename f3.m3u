@@ -1,0 +1,30 @@
+#EXTM3U 
+#EXTINF:0,CUATRO
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://vavoo.to/play/593493860/index.m3u8
+
+#EXTINF:0,TELECINCO
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://vavoo.to/play/353095972/index.m3u8
+
+#EXTINF:0,antena3
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/MoAkeoeRblfQImZEuY8l1MXFu0S_2VgG6R2kS4pzLEPM9UI7AhxDLkulf99-zeRiI9mMjsLp7BsrOlVOH3PlaW3Jgl6xUVz297y86OSWtmh1CNq5OWQ-qrGKjy3GdZ-HEFmpgo1Q5gD3UkSlP8oKliTmfIR1WVxQyN5dH5VL6duBj1zyFsL7oAKhXsDpDIR6/hls/index.m3u8
+
+#EXTINF:0,lasexta
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://vavoo.to/play/2660027208/index.m3u8
+
+#EXTINF:0,planet A&E
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://vavoo.to/play/1485094105/index.m3u8
+
+#EXTINF:0,J-ONE
+#EXTVLCOPT:http-referrer=http://vavoo.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://vavoo.to/play/504247527/index.m3u8
