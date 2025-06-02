@@ -17,6 +17,13 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1,NEOX
 http://185.189.225.150:85/neox/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://185.189.225.150:85/nickelodeon/index.m3u8
+#EXTINF:-1,Bom Cine
+http://185.189.225.150:85/BOM/index.m3u8
+#EXTINF:-1,Paramount Network
+http://185.189.225.150:85/Paramount/index.m3u8
+
 #EXTINF:-1,Pop World
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTINF:0,TF1
