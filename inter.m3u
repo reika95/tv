@@ -5,6 +5,8 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/mani
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_SD.smil/manifest.m3u8
 #EXTINF:-1,M:,Vevo 90-00s
 https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,M:,Vevo 90-00s 2
+https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
 #EXTINF:-1,M:,Vevo 90
 https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 #EXTINF:-1,M:,Vevo Retro Rock
