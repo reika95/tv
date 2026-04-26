@@ -3,26 +3,33 @@
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
 #EXTINF:-4, HITV
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_SD.smil/manifest.m3u8
-#EXTINF:-1,M:,Vevo 2010s
-https://jmp2.uk/sam-USBD120002431.m3u8
+#EXTINF:-1,M:,Vevo 90-00s
+https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,M:,Vevo 90
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 #EXTINF:-1,M:,Vevo Retro Rock
 https://jmp2.uk/sam-USBD3000145P.m3u8
+#EXTINF:-1,M:,Vevo LATINO
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Vevo Rock
+https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
 #EXTINF:-1,M:,XITE 90s Throwback
-https://jmp2.uk/sam-USBB3200007AK.m3u8
+https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
 #EXTINF:-1,M:, NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1,M:,XITE Siempre Latino
-https://jmp2.uk/sam-USBD3300010L9.m3u8
-#EXTINF:-1,M:,,XITE Rock x Metal
-https://jmp2.uk/sam-USBB2300004KV.m3u8
-#EXTINF:-1,NOW 70s
-http://mytvsuper.27481716.xyz/mytvsuper/NOW7
-#EXTINF:-1,NOW 80s
-http://mytvsuper.27481716.xyz/mytvsuper/NOW8
+https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
+#EXTINF:-1,M:,XITE NUEVO Latino
+https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
 #EXTINF:-1,MNET
 https://everylive.space/live/mnet/livestream.m3u8?hls_ctx=gt9977ng
 #EXTINF:-1,NOW ROCK
-http://mytvsuper.27481716.xyz/mytvsuper/NOWR
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1,NOW 90s00s
-http://mytvsuper.27481716.xyz/mytvsuper/NOW9
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1,VEVO LATINO
+https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8
+#EXTINF:-1,VEVO 90
+https://jmp2.uk/rok-4c0772ef75e1565183843b37e91591f8.m3u8
+
 
