@@ -3,6 +3,8 @@
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
 #EXTINF:-4, HITV
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_SD.smil/manifest.m3u8
+#EXTINF:-4, VEVO POP SPAIN
+https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,M:,Vevo 90-00s
 https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,M:,Vevo 90-00s 2
@@ -15,6 +17,8 @@ https://jmp2.uk/sam-USBD3000145P.m3u8
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Vevo Rock
 https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
+#EXTINF:-1,Vevo RETRO Rock
+https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 #EXTINF:-1,M:,XITE 90s Throwback
 https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
 #EXTINF:-1,M:, NOW ROCK
